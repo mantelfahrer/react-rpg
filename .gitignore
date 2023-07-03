@@ -1,0 +1,22 @@
+/.idea
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# assets
+/features/map/tiles
+/features/player/sprites
+
+# misc
+.DS_Store
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.eslintcache
