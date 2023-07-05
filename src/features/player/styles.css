@@ -1,0 +1,51 @@
+@keyframes walkDown {
+  from {
+    transform: translate3d(0, 0, 0);
+  }
+  to {
+    transform: translate3d(-100%, 0, 0);
+  }
+}
+
+@keyframes walkUp {
+  from {
+    transform: translate3d(0, -25%, 0);
+  }
+  to {
+    transform: translate3d(-100%, -25%, 0);
+  }
+}
+
+@keyframes walkLeft {
+  from {
+    transform: translate3d(0, -50%, 0);
+  }
+  to {
+    transform: translate3d(-100%, -50%, 0);
+  }
+}
+
+@keyframes walkRight {
+  from {
+    transform: translate3d(0, -75%, 0);
+  }
+  to {
+    transform: translate3d(-100%, -75%, 0);
+  }
+}
+
+.walkDown {
+  animation: walkDown 400ms steps(4) infinite;
+}
+
+.walkUp {
+  animation: walkUp 400ms steps(4) infinite;
+}
+
+.walkLeft {
+  animation: walkLeft 400ms steps(4) infinite;
+}
+
+.walkRight {
+  animation: walkRight 400ms steps(4) infinite;
+}

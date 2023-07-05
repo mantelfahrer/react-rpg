@@ -1,0 +1,149 @@
+.tile {
+  display: inline-flex;
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.rock {
+  background-image: url("./tiles/rock.png");
+}
+
+.bush {
+  background-image: url("./tiles/bush.png");
+}
+
+.grass {
+    background-image: url("./tiles/tile-grass.png");
+}
+
+.grass-lush {
+    background-image: url("./tiles/tile-grass-lush.png");
+}
+
+.chest {
+    background-image: url("./tiles/chest.png");
+}
+
+.house-1-1 {
+  background-image: url("./tiles/house-1-1.png");
+}
+
+.house-1-2 {
+  background-image: url("./tiles/house-1-2.png");
+}
+
+.house-1-3 {
+  background-image: url("./tiles/house-1-3.png");
+}
+
+.house-1-4 {
+  background-image: url("./tiles/house-1-4.png");
+}
+
+.house-2-1 {
+  background-image: url("./tiles/house-2-1.png");
+}
+
+.house-2-2 {
+  background-image: url("./tiles/house-2-2.png");
+}
+
+.house-2-3 {
+  background-image: url("./tiles/house-2-3.png");
+}
+
+.house-2-4 {
+  background-image: url("./tiles/house-2-4.png");
+}
+
+.house-3-1 {
+  background-image: url("./tiles/house-3-1.png");
+}
+
+.house-3-2 {
+  background-image: url("./tiles/house-3-2.png");
+}
+
+.house-3-3 {
+  background-image: url("./tiles/house-3-3.png");
+}
+
+.house-3-4 {
+  background-image: url("./tiles/house-3-4.png");
+}
+
+.house-4-1 {
+  background-image: url("./tiles/house-4-1.png");
+}
+
+.house-4-2 {
+  background-image: url("./tiles/house-4-2.png");
+}
+
+.house-4-3 {
+  background-image: url("./tiles/house-4-3.png");
+}
+
+.house-4-4 {
+  background-image: url("./tiles/house-4-4.png");
+}
+
+.fence-wood {
+  background-image: url("./tiles/fence-wood.png");
+}
+
+.fence-wood-vertical {
+  background-image: url("./tiles/fence-wood-vertical.png");
+}
+
+.fence-wood-top-left {
+  background-image: url("./tiles/fence-wood-top-left.png");
+}
+
+.fence-wood-top-right {
+  background-image: url("./tiles/fence-wood-top-right.png");
+}
+
+.fence-wood-bottom-left {
+  background-image: url("./tiles/fence-wood-bottom-left.png");
+}
+
+.fence-wood-bottom-right {
+  background-image: url("./tiles/fence-wood-bottom-right.png");
+}
+
+.path {
+  background-image: url("./tiles/path.png");
+}
+
+.path-top-left {
+  background-image: url("./tiles/path-top-left.png");
+}
+
+.path-top-middle {
+  background-image: url("./tiles/path-top-middle.png");
+}
+
+.path-top-right {
+  background-image: url("./tiles/path-top-right.png");
+}
+
+.path-border-left {
+  background-image: url("./tiles/path-border-left.png");
+}
+
+.path-border-right {
+  background-image: url("./tiles/path-border-right.png");
+}
+
+.path-bottom-left {
+  background-image: url("./tiles/path-bottom-left.png");
+}
+
+.path-bottom-middle {
+  background-image: url("./tiles/path-bottom-middle.png");
+}
+
+.path-bottom-right {
+  background-image: url("./tiles/path-bottom-right.png");
+}
