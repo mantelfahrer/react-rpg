@@ -1,6 +1,7 @@
 # React RPG
 
-This little project demonstrates the posibility to program a game in Javascript using the React Framework and the React Redux Module.
+This little project demonstrates the posibility to program a game in Javascript using the React Framework and the React Redux Module.\
+As of now, the only implemented functionality is moving the player or rather moving the camera over the map when controlling the character.
 
 ![](https://github.com/mantelfahrer/react-rpg/blob/main/screenshot/react-rpg.gif)
 
