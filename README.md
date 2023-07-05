@@ -2,7 +2,7 @@
 
 This little project demonstrates the posibility to program a game in Javascript using the React Framework and the React Redux Module.
 
-![](https://github.com/https://github.com/mantelfahrer/react-rpg/blob/main/react-rpg.gif)
+![](https://github.com/mantelfahrer/react-rpg/blob/main/screenshot/react-rpg.gif)
 
 ## How to use
 
