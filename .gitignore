@@ -11,8 +11,8 @@
 /build
 
 # assets
-/features/map/tiles
-/features/player/sprites
+/features/map/tiles/*
+/features/player/sprites/*
 
 # misc
 .DS_Store
